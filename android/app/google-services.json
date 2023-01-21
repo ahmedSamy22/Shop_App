@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037611065518",
+    "project_id": "firstfire-ed885",
+    "storage_bucket": "firstfire-ed885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037611065518:android:7de612e8e69c58e4170d3f",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037611065518-85lnbl9s8tt0dta5s7upqolstufav3bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBomcx8G5wiPrATXdTbq30gN_qHovVlR7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037611065518-85lnbl9s8tt0dta5s7upqolstufav3bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
